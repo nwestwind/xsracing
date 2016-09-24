@@ -1,9 +1,8 @@
 # True Recreation
-True Recreation's Redesign
+##XS Racing
 =================
-https://www.truerecreation.com/
------------------------------
-
+http://thewestwindproject.com/
+ 
 ##Demo site:
 
-http://thewestwindproject.com/truerec/dist/
+http://thewestwindproject.com/xsracing/stage/
