@@ -1,0 +1,48 @@
+{
+  "name": "xsracing",
+  "version": "0.0.1",
+  "description": "XS Racing - Motorcycle Racing",
+  "main": "Gruntfile.js",
+  "devDependencies": {
+    "browserify": "^13.1.0",
+    "grunt": "^0.4.5",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-clean": "^0.7.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-copy": "^0.8.1",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^0.11.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-ftp-deploy": "^0.1.10",
+    "grunt-includes": "^0.5.1",
+    "grunt-scss-lint": "^0.3.4",
+    "jquery": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "XS",
+    "Racing",
+    "Motorcycle"
+  ],
+  "author": "the westwind project",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^13.1.0",
+    "grunt": "^0.4.5",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-clean": "^0.7.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-copy": "^0.8.1",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^0.11.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-ftp-deploy": "^0.1.10",
+    "grunt-includes": "^0.5.1",
+    "grunt-scss-lint": "^0.3.4",
+    "jquery": "^3.1.0"
+  }
+}
