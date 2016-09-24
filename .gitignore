@@ -37,3 +37,5 @@ Temporary Items
 .apdisk
 node_modules/
 .sass-cache/
+tower-key.pub
+towerkey.ppk
