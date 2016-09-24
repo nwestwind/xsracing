@@ -1,5 +1,4 @@
-# True Recreation
-##XS Racing
+# XS Racing
 =================
 http://thewestwindproject.com/
  
