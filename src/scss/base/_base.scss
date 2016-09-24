@@ -1,0 +1,11 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+body {
+    font-size: 18px;
+    font-family: 'PT Sans';
+    background: $black url('../img/race-track1.jpg') no-repeat 50% 0%;
+    background-size: cover;
+}

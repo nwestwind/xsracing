@@ -1,0 +1,18 @@
+@import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic);
+@import url(http://fonts.googleapis.com/css?family=Kaushan+Script);
+
+$base-sans-serif: 'PT Sans', Arial, 'Helvetica Neue', sans-serif;
+$base-serif: 'Kaushan Script', serif;
+
+body {
+  font-family: $base-sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $base-serif;
+}
